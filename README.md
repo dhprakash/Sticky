@@ -10,3 +10,6 @@ https://codepen.io/adamprince/pen/QWjJzNM
 
 https://codepen.io/Eslam_Refa3y/pen/jONzrza
 https://codepen.io/lakmar/pen/NWqLyme
+
+https://codepen.io/jthomasson/pen/zRXraP
+https://codepen.io/aaronguernsey/pen/NrvdGx
